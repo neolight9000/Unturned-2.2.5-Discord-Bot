@@ -3,8 +3,11 @@ The first discord bot working with the UnturnedNetworkAPI plugin. Allows you to 
 
 # References
 `Pillow` - `pip install Pillow`
+
 `configparser` - `pip install configparser`
+
 `discord` - `pip install discord.py`
+
 
 # Commands
 `ban` - Ban a player on the server, `only admins can use this command.` example:
